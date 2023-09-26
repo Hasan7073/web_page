@@ -1,6 +1,7 @@
  body{padding: 0;
   margin: 0;
- font-family: 'Poppins', sans-serif;
+
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
 
@@ -105,3 +106,63 @@ img{
 /*====================*/
 
 
+.header_section{
+background-image: url("../background/background.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.custom_container{
+max-width: 1300px;
+  width: 100%;
+  margin: auto;
+}
+.header_contant{
+  display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.nav_manu{
+    margin-right: 75px;
+}
+.nav_manu ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav_manu ul li{
+
+}
+
+.nav_manu ul li a{
+color: #FFF;
+font-family: Volte;
+font-size: 35px;
+font-style: normal;
+font-weight: 500;
+line-height: 50px; /* 142.857% */
+}
+.login_button{
+
+}
+.login_button a{
+
+}
+
+
+.banner_contant{
+
+}
+.banner_contant h1{
+
+}
+.banner_contant p{
+
+}
+.banner_button{
+
+}
+.banner_button a{
+
+}
