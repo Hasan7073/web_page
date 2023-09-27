@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteBoldItalicRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteBoldItalicRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteLightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteLightRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteMediumItalicRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteMediumItalicRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteMediumRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteMediumRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteLightItalicRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteLightItalicRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteItalicRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteItalicRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteSemiboldItalicRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteSemiboldItalicRegular.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteSemiboldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteSemiboldRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Volte';
+    src: url('FONTSPRINGDEMO-VolteRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-VolteRegular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
