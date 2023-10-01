@@ -1,7 +1,7 @@
  body{padding: 0;
   margin: 0;
 
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Volte', sans-serif;
   font-weight: 400;
 }
 
@@ -141,7 +141,7 @@ font-family: Volte;
 font-size: 35px;
 font-style: normal;
 font-weight: 500;
-line-height: 50px; /* 142.857% */
+line-height: 50px;
 }
 .login_button{
 
