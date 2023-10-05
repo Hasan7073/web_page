@@ -230,10 +230,11 @@ color: #4A4A4A;
     padding-bottom: 90px;
 }
 .header_contants{
-display: flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    gap: 65px;
 }
 .header_contants_full{
 align-items: center;
